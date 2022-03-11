@@ -1,7 +1,7 @@
 **/Olá sou Matheus Isaac.** 
 
 &nbsp;
-Sou um iniciante em programação, Aluno de ciências da computação na UNIP.
+Sou um iniciante em programação, Aluno de ciências da computação na UNIP e Alura.
 
 <div>
   <a href="https://github.com/C4nisAku">
