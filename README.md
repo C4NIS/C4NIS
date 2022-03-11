@@ -18,13 +18,11 @@ Sou um iniciante em programação, Aluno de ciências da computação na UNIP.
 <img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
-<div> 
- 
+&nbsp;  
+<div>  
   <a href="https://www.instagram.com/c4nis_404/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/c4nis404" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="C4NIS#0497" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/matheus-silva-951193219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://https://github.com/C4nisAku/blob/output/github-contribution-grid-snake.svg)
  
 </div>
