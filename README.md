@@ -3,6 +3,7 @@
 &nbsp;
 Sou um iniciante em programação, Aluno de ciências da computação na UNIP e Alura.
 
+
 <div>
   <a href="https://github.com/C4nisAku">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=C4nisAku&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,7 @@ Sou um iniciante em programação, Aluno de ciências da computação na UNIP e 
 <img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />   
 </div>
 
 &nbsp;  
