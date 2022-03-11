@@ -9,6 +9,7 @@ Sou Programador iniciante, Aluno de ciências da computação na UNIP.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4nisAku&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 Linguagens Conhecidas:  
+  
 &nbsp;
 <div>    
 <img aling= center height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
