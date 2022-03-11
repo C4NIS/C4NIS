@@ -9,7 +9,7 @@ Sou um iniciante em programação, Aluno de ciências da computação na UNIP.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4nisAku&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-↓Linguagens conhecidas↓ 
+  ##↓ Linguagens conhecidas ↓ 
   
 &nbsp;
 <div>    
