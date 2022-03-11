@@ -7,5 +7,5 @@
 </div>
   
 <div> 
-<img aling= center height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img aling= center height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
