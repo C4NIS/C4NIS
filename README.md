@@ -25,6 +25,6 @@ Sou um iniciante em programação, Aluno de ciências da computação na UNIP.
  <a href="C4NIS#0497" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/matheus-silva-951193219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://https://github.com/C4nisAku/C4nisAku/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://https://github.com/C4nisAku/blob/output/github-contribution-grid-snake.svg)
  
 </div>
