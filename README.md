@@ -7,6 +7,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="canis-alt" height="30" width="50" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />">
 
 </div>
