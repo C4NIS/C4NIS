@@ -46,4 +46,4 @@ Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidad
 
 Agradeço por visitar meu repositório e espero que encontre algo útil e interessante por aqui. Vamos construir um futuro inovador juntos!
 
-![Profile Footer](Arte.png)
+![Profile Footer](Arte.jpg)
