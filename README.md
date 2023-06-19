@@ -20,8 +20,8 @@ Sou um(a) entusiasta da tecnologia apaixonado(a) por resolver problemas e criar 
 
 Ao longo da minha jornada, desenvolvi uma variedade de projetos interessantes que abordam diferentes aspectos das áreas de interesse mencionadas acima. Aqui estão alguns projetos destacados:
 
-- [Projeto 1](link-para-o-projeto): Breve descrição do projeto e seu propósito.
-- [Projeto 2](link-para-o-projeto): Breve descrição do projeto e seu propósito.
+- [Senhas Seguras](https://github.com/C4NIS/Gerador_De_Senhas_Seguras): Um programa de terminal simples para gerar senhas seguras.
+- [Lista de Tarefas](https://github.com/C4NIS/Lista_de_Tarefas_para_Terminal): Um programa de terminal simples para gerenciar tarefas.
 
 Para visualizar a lista completa de projetos, confira a seção [Projetos](link-para-a-secao-de-projetos).
 
