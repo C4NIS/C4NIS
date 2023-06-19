@@ -1,6 +1,3 @@
-Certamente! Aqui está o arquivo README.md atualizado, com destaque nas áreas de desenvolvimento back-end e segurança:
-
-```
 # Bem-vindo(a) ao meu Repositório!
 
 Este repositório contém o código fonte e projetos que desenvolvi ao longo da minha jornada como programador(a). Sinta-se à vontade para explorar os diferentes projetos e contribuições aqui presentes.
@@ -35,6 +32,4 @@ Você pode entrar em contato comigo através do email [seu-email@exemplo.com] ou
 ## Licença
 
 Este repositório é licenciado sob a licença [Nome da Licença]. Consulte o arquivo LICENSE.md para obter mais detalhes.
-```
 
-Lembre-se de personalizar as informações de contato, a licença e qualquer outra seção que seja relevante para você.
