@@ -1,23 +1,40 @@
+Certamente! Aqui está o arquivo README.md atualizado, com destaque nas áreas de desenvolvimento back-end e segurança:
 
-<div>
-  <a href="https://github.com/C4nisAku">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=C4nisAku&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4nisAku&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+```
+# Bem-vindo(a) ao meu Repositório!
 
-&nbsp;
-<div>    
-<img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img aling= center height = "80" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />   
-</div>
+Este repositório contém o código fonte e projetos que desenvolvi ao longo da minha jornada como programador(a). Sinta-se à vontade para explorar os diferentes projetos e contribuições aqui presentes.
 
-&nbsp;  
-<div>  
-  <a href="https://www.instagram.com/c4nis_404/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/c4nis404" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/4XrJzRK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/matheus-silva-951193219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## Sobre mim
+
+Sou um(a) entusiasta da tecnologia apaixonado(a) por resolver problemas e criar soluções criativas. Meu foco principal é o desenvolvimento back-end e segurança da informação. Tenho experiência em diversas linguagens de programação, como Python, JavaScript e Java.
+
+Aqui estão algumas das áreas em que tenho interesse e conhecimento:
+
+- Desenvolvimento Back-end
+- Segurança da Informação
+- Desenvolvimento Web
+- Ciência de Dados
+- Aprendizado de Máquina
+
+## Como Contribuir
+
+Contribuições são sempre bem-vindas! Se você gostaria de contribuir com algum dos meus projetos, siga estas etapas:
+
+1. Faça um fork do repositório
+2. Crie um branch com uma descrição clara da sua contribuição: `git checkout -b minha-contribuicao`
+3. Faça as alterações e/ou adições necessárias
+4. Commit suas mudanças: `git commit -m 'Minha Contribuição'`
+5. Envie seu branch para o repositório remoto: `git push origin minha-contribuicao`
+6. Abra um Pull Request descrevendo suas alterações
+
+## Contato
+
+Você pode entrar em contato comigo através do email [seu-email@exemplo.com] ou [outra forma de contato]. Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
+
+## Licença
+
+Este repositório é licenciado sob a licença [Nome da Licença]. Consulte o arquivo LICENSE.md para obter mais detalhes.
+```
+
+Lembre-se de personalizar as informações de contato, a licença e qualquer outra seção que seja relevante para você.
