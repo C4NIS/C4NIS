@@ -25,11 +25,4 @@ Contribuições são sempre bem-vindas! Se você gostaria de contribuir com algu
 5. Envie seu branch para o repositório remoto: `git push origin minha-contribuicao`
 6. Abra um Pull Request descrevendo suas alterações
 
-## Contato
-
-Você pode entrar em contato comigo através do email [seu-email@exemplo.com] ou [outra forma de contato]. Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
-
-## Licença
-
-Este repositório é licenciado sob a licença [Nome da Licença]. Consulte o arquivo LICENSE.md para obter mais detalhes.
 
