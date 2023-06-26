@@ -40,7 +40,6 @@ Você pode entrar em contato comigo através do email MathSilva_@outlook.com.
 Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
 
 ![GitHub Followers](https://img.shields.io/github/followers/C4NIS.svg?style=social&label=Follow)
-![Twitter Follow](https://img.shields.io/twitter/follow/seu-perfil-no-twitter.svg?style=social&label=Follow)
 
 Agradeço por visitar meu repositório e espero que encontre algo útil e interessante por aqui. Vamos construir um futuro inovador juntos!
 
