@@ -1,7 +1,5 @@
 # Bem-vindo(a) ao meu Repositório!
 
-![Profile Banner](Background.png)
-
 Olá! Meu nome é Matheus, e este é o meu repositório no GitHub. Aqui você encontrará o código fonte e projetos que desenvolvi ao longo da minha jornada como programador(a). Sinta-se à vontade para explorar os diferentes projetos e contribuições disponíveis aqui.
 
 ## Sobre mim
