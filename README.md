@@ -36,7 +36,7 @@ Contribuições são sempre bem-vindas! Se você gostaria de contribuir com algu
 
 ## Contato
 
-Você pode entrar em contato comigo através do email MathSilva_@outlook.com. 
+Você pode entrar em contato comigo através do email Mathebastos@hotmail.com. 
 Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
 
 ![GitHub Followers](https://img.shields.io/github/followers/C4NIS.svg?style=social&label=Follow)
