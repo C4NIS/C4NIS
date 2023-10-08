@@ -4,7 +4,27 @@ Olá! Meu nome é Matheus, e este é o meu repositório no GitHub. Aqui você en
 
 ## Sobre mim
 
-Sou um(a) entusiasta da tecnologia apaixonado(a) por resolver problemas e criar soluções criativas. Com foco principal em desenvolvimento back-end e segurança da informação, tenho experiência em diversas linguagens de programação, como Python, JavaScript e Java. Acredito no poder da tecnologia para impulsionar a inovação e transformar o mundo.
+Olá! Meu nome é Matheus, e sou um apaixonado desenvolvedor de software em busca da minha primeira oportunidade profissional na área de programação. Com uma sólida formação em ciência da computação e um conjunto de habilidades versáteis, estou pronto para contribuir em projetos desafiadores e inovadores.
+
+🚀 Habilidades Técnicas
+
+✔️ Linguagens de Programação: Sou proficientemente em várias linguagens de programação, incluindo Java, Python e C#. Minha experiência abrange desde desenvolvimento de aplicações desktop até soluções web dinâmicas.
+
+✔️ Frameworks Web: Tenho conhecimento em frameworks web como Django e .NET, permitindo-me criar aplicativos web robustos e escaláveis.
+
+✔️ Desenvolvimento Front-end: Sou experiente em JavaScript, HTML e CSS, o que me permite criar interfaces de usuário atraentes e responsivas. Além disso, sou capaz de utilizar o React para criar experiências web interativas e dinâmicas.
+
+🔒 Segurança da Informação
+
+Minhas habilidades não se limitam apenas ao desenvolvimento de software, mas também incluem uma forte aptidão em segurança da informação. Possuo conhecimentos em testes de penetração (pentest), o que me permite identificar e solucionar vulnerabilidades em aplicações e sistemas.
+
+💼 Oportunidade de Carreira
+
+Estou ansioso para embarcar em minha carreira profissional como desenvolvedor de software e contribuir para projetos que desafiem meu conhecimento e me permitam crescer profissionalmente. Estou disposto a aprender continuamente, adaptar-me a novas tecnologias e colaborar em equipe para alcançar resultados excepcionais.
+
+📨 Contato
+
+Se você está procurando um programador apaixonado, pronto para fazer a diferença em sua equipe, estou ansioso para ouvir de você! Entre em contato comigo através do meu e-mail mathebastos@hotmail.com.
 
 ## Áreas de Interesse
 
