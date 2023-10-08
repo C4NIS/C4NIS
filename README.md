@@ -1,7 +1,3 @@
-# Bem-vindo(a) ao meu Repositório!
-
-Olá! Meu nome é Matheus, e este é o meu repositório no GitHub. Aqui você encontrará o código fonte e projetos que desenvolvi ao longo da minha jornada como programador(a). Sinta-se à vontade para explorar os diferentes projetos e contribuições disponíveis aqui.
-
 ## Sobre mim
 
 Olá! Meu nome é Matheus, e sou um apaixonado desenvolvedor de software em busca da minha primeira oportunidade profissional na área de programação. Com uma sólida formação em ciência da computação e um conjunto de habilidades versáteis, estou pronto para contribuir em projetos desafiadores e inovadores.
