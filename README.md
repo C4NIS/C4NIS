@@ -26,7 +26,7 @@ Se você está procurando um programador apaixonado, pronto para fazer a diferen
 
 - Desenvolvimento Back-end
 - Segurança da Informação
-- Desenvolvimento Web
+- Desenvolvimento Front-end
 - Ciência de Dados
 - Aprendizado de Máquina
 
