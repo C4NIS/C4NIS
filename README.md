@@ -24,11 +24,10 @@ Se você está procurando um programador apaixonado, pronto para fazer a diferen
 
 ## Áreas de Interesse
 
+- Desenvolvimento Front-end
 - Desenvolvimento Back-end
 - Segurança da Informação
-- Desenvolvimento Front-end
-- Ciência de Dados
-- Aprendizado de Máquina
+
 
 ## Projetos
 
@@ -52,10 +51,10 @@ Contribuições são sempre bem-vindas! Se você gostaria de contribuir com algu
 
 ## Contato
 
-Você pode entrar em contato comigo através do email Mathebastos@hotmail.com. 
+Você pode entrar em contato comigo através do email mathebastos@hotmail.com
 Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
 
 ![GitHub Followers](https://img.shields.io/github/followers/C4NIS.svg?style=social&label=Follow)
 
-Agradeço por visitar meu repositório e espero que encontre algo útil e interessante por aqui. Vamos construir um futuro inovador juntos!
+Agradeço por visitar meu repositório e espero que encontre algo útil e interessante por aqui. 
 
