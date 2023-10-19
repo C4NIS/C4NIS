@@ -33,8 +33,8 @@ Se você está procurando um programador apaixonado, pronto para fazer a diferen
 
 Ao longo da minha jornada, desenvolvi uma variedade de projetos interessantes que abordam diferentes aspectos das áreas de interesse mencionadas acima. Aqui estão alguns projetos destacados:
 
-- [Senhas Seguras](https://github.com/C4NIS/Gerador_De_Senhas_Seguras): Um programa de terminal simples para gerar senhas seguras.
-- [Lista de Tarefas](https://github.com/C4NIS/Lista_de_Tarefas_para_Terminal): Um programa de terminal simples para gerenciar tarefas.
+- [Project_Havenport](https://github.com/C4NIS/Project_Havenport): Um servidor de Roleplay (RP) no universo de Project Zomboid que mergulha os jogadores nos anos 80, oferecendo uma experiência imersiva e autêntica. Explore Havenport, uma cidade sem zumbis, onde você pode viver como se estivesse na década de 80. O nosso site simula um sistema operacional antigo, com aplicativos que representam as necessidades dos cidadãos da época, incluindo bancos, imobiliárias e documentos. Junte-se à comunidade e vivencie uma jornada única nos anos 80 em Havenport!
+- [ConsultEstrategia.com](https://github.com/C4NIS/ConsultEstrategia.com): O projeto ConsultEstrategia.com é uma plataforma dedicada à análise de dados estratégica e à consultoria de administração. Nosso objetivo é capacitar organizações de todos os tamanhos a tomar decisões informadas e aprimorar suas operações com base em insights de dados sólidos.
 
 Para visualizar a lista completa de projetos, confira a seção [Repositorios](https://github.com/C4NIS?tab=repositories).
 
