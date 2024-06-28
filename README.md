@@ -1,3 +1,4 @@
+![Server_wd](./DALL·E 2024-06-28 15.49.31 - A server room with multiple racks of servers, glowing with neon blue and green lights. The room has a dark, cyberpunk aesthetic with exposed cables, a.webp)
 ## Sobre mim
 
 Sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits, reconhecimento e testes de penetração. Com uma sólida formação em ciência da computação e um conjunto de habilidades versáteis, estou pronto para contribuir em projetos desafiadores e inovadores.
