@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Olá! Meu nome é Isaac, e sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits, reconhecimento e testes de penetração. Com uma sólida formação em ciência da computação e um conjunto de habilidades versáteis, estou pronto para contribuir em projetos desafiadores e inovadores.
+Sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits, reconhecimento e testes de penetração. Com uma sólida formação em ciência da computação e um conjunto de habilidades versáteis, estou pronto para contribuir em projetos desafiadores e inovadores.
 
 🔒 **Segurança da Informação**
 
