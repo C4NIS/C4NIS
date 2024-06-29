@@ -29,7 +29,7 @@ Estou ansioso para continuar minha carreira profissional como especialista em ci
 
 📨 **Contato**
 
-Se você está procurando um especialista em cibersegurança apaixonado, pronto para fazer a diferença em sua equipe, estou ansioso para ouvir de você! Entre em contato comigo através do meu e-mail [seuemail@exemplo.com].
+Se você está procurando um especialista em cibersegurança apaixonado, pronto para fazer a diferença em sua equipe, estou ansioso para ouvir de você! Entre em contato comigo através do meu e-mail mathebastos@hotmail.com.
 
 ## Áreas de Interesse
 
