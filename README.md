@@ -3,13 +3,11 @@
 Sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits e testes de penetração. Tenho uma sólida formação em ciência da computação e várias certificações relevantes na área.
 
 ## Certificações
-Incluem:
-
-Ciências da Computação - UNIP
-Formação em Cibersegurança - HackerSec
-Diversas certificações da Alura e Cisco em cibersegurança, programação e Linux.
-Oportunidade de Carreira
-Estou buscando continuar minha carreira em cibersegurança, contribuindo para projetos desafiadores e inovadores.
+<li>Ciências da Computação - UNIP</li>
+<li>Formação em Cibersegurança - HackerSec</li>
+<li>Diversas certificações da Alura e Cisco em cibersegurança, programação e Linux.</li>
+<li>Oportunidade de Carreira</li>
+<li>Estou buscando continuar minha carreira em cibersegurança, contribuindo para projetos desafiadores e inovadores.</li>
 
 ## Áreas de Interesse
 Segurança da Informação
