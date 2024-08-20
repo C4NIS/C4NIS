@@ -1,51 +1,31 @@
 ![Server_wd](./Server.png)
-## Sobre mim
+## Sobre Mim
+Sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits e testes de penetração. Tenho uma sólida formação em ciência da computação e várias certificações relevantes na área.
 
-Sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits, reconhecimento e testes de penetração. Com uma sólida formação em ciência da computação e um conjunto de habilidades versáteis, estou pronto para contribuir em projetos desafiadores e inovadores.
+## Certificações
+Incluem:
 
-🔒 **Segurança da Informação**
-
-Minhas habilidades incluem uma forte aptidão em segurança da informação. Possuo conhecimentos em testes de penetração (pentest), o que me permite identificar e solucionar vulnerabilidades em aplicações e sistemas.
-
-🎓 **Certificações**
-- **Ciencias da Computação - UNIP**
-- **Formação em Cibersegurança - HackerSec**
-- **Formação Aprenda a Programar em JavaScript com Foco no Back-end - Alura**
-- **Introduction to Cybersecurity - Cisco**
-- **Formação Cibersegurança - Alura**
-- **Formação Começando com Linux - Alura**
-- **Formação Django: Crie Aplicações em Python - Alura**
-- **Formação Segurança Ofensiva - Alura**
-- **Formação Segurança de Software com OWASP - Alura**
-- **Formação A Partir do Zero: HTML e CSS para Projetos Web - Alura**
-- **Formação Começando em DevOps - Alura**
-- **Formação Iniciante em Programação - Alura**
-- **Formação SQL com MySQL Server da Oracle - Alura**
-- **Formação Aprenda a Programar em Python com Orientação a Objetos - Alura**
-
-💼 **Oportunidade de Carreira**
-
-Estou ansioso para continuar minha carreira profissional como especialista em cibersegurança, contribuindo para projetos que desafiem meu conhecimento e me permitam crescer profissionalmente. Estou disposto a aprender continuamente, adaptar-me a novas tecnologias e colaborar em equipe para alcançar resultados excepcionais.
-
-📨 **Contato**
-
-Se você está procurando um especialista em cibersegurança apaixonado, pronto para fazer a diferença em sua equipe, estou ansioso para ouvir de você! Entre em contato comigo através do meu e-mail mathebastos@hotmail.com.
+Ciências da Computação - UNIP
+Formação em Cibersegurança - HackerSec
+Diversas certificações da Alura e Cisco em cibersegurança, programação e Linux.
+Oportunidade de Carreira
+Estou buscando continuar minha carreira em cibersegurança, contribuindo para projetos desafiadores e inovadores.
 
 ## Áreas de Interesse
+Segurança da Informação
+Testes de Penetração (Pentest)
+Desenvolvimento de Exploits
+Red Teaming
+Projetos
+Destaques:
 
-- Segurança da Informação
-- Testes de Penetração (Pentest)
-- Desenvolvimento de Exploits
-- Red Teaming
+Project_Havenport: Servidor de Roleplay (RP) no universo de Project Zomboid, ambientado nos anos 80.
+ConsultEstrategia.com: Plataforma de análise de dados e consultoria administrativa.
+Como Contribuir
+Contribuições são bem-vindas. Instruções incluem fazer um fork, criar um branch, realizar alterações, e abrir um Pull Request.
 
-## Projetos
-
-Ao longo da minha jornada, desenvolvi uma variedade de projetos interessantes que abordam diferentes aspectos das áreas de interesse mencionadas acima. Aqui estão alguns projetos destacados:
-
-- [Project_Havenport](https://github.com/C4NIS/Project_Havenport): Um servidor de Roleplay (RP) no universo de Project Zomboid que mergulha os jogadores nos anos 80, oferecendo uma experiência imersiva e autêntica. Explore Havenport, uma cidade sem zumbis, onde você pode viver como se estivesse na década de 80. O nosso site simula um sistema operacional antigo, com aplicativos que representam as necessidades dos cidadãos da época, incluindo bancos, imobiliárias e documentos. Junte-se à comunidade e vivencie uma jornada única nos anos 80 em Havenport!
-- [ConsultEstrategia.com](https://github.com/C4NIS/ConsultEstrategia.com): O projeto ConsultEstrategia.com é uma plataforma dedicada à análise de dados estratégica e à consultoria de administração. Nosso objetivo é capacitar organizações de todos os tamanhos a tomar decisões informadas e aprimorar suas operações com base em insights de dados sólidos.
-
-Para visualizar a lista completa de projetos, confira a seção [Repositórios](https://github.com/C4NIS?tab=repositories).
+## Contato
+Entre em contato através do e-mail: mathebastos@hotmail.com
 
 ## Como Contribuir
 
