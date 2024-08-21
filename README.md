@@ -11,7 +11,7 @@ Contribuições são sempre bem-vindas! Se você gostaria de contribuir com algu
 
 ## Contato
 
-Você pode entrar em contato comigo através do email "mathebastos@hotmail.com". Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
+Você pode entrar em contato comigo através de um email feito exclusivamente para isso "emailforquestionsc4nis@gmail.com". Fico feliz em responder a quaisquer perguntas ou discutir possíveis oportunidades de colaboração.
 
 ![GitHub Followers](https://img.shields.io/github/followers/C4NIS.svg?style=social&label=Follow)
 
