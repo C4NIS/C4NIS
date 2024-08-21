@@ -1,4 +1,3 @@
-![Server_wd](./Server.png)
 ## Sobre Mim
 Sou um desenvolvedor especializado em cibersegurança, com foco em Ethical Hacking, Red Teaming, desenvolvimento de exploits e testes de penetração. Tenho uma sólida formação em ciência da computação e várias certificações relevantes na área.
 
